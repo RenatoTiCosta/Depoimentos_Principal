@@ -1,0 +1,85 @@
+body {
+  font-size: 16px;
+}
+
+header {
+  width: 800px;
+  margin: 0 auto;
+}
+
+h4 {
+  margin: 0px;
+}
+h5 {
+  margin-top: 2.5px;
+  color: rgb(169, 174, 177);
+}
+
+h3 {
+  color: White;
+  text-align: left;
+}
+p {
+  color: rgb(169, 174, 177);
+}
+
+.foto {
+  border-radius: 80px;
+  border: 2px solid rgb(220, 220, 220);
+  margin-left: auto;
+}
+
+.daniel {
+  width: auto;
+  height: auto;
+  padding: 20px;
+  background-color: rgb(91, 22, 105);
+  color: white;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.aspas {
+  margin-left: auto;
+}
+.jonathan {
+  width: auto;
+  height: auto;
+  padding: 20px;
+  background-color: rgb(69, 66, 69);
+  color: white;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.janette {
+  width: auto;
+  height: auto;
+  padding: 20px;
+  background-color: rgb(251, 241, 252);
+  color: rgb(9, 9, 9);
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.black {
+  color: rgb(9, 9, 9);
+}
+
+.patrick {
+  width: auto;
+  height: auto;
+  padding: 20px;
+  background-color: rgb(19, 27, 45);
+  color: rgb(251, 251, 251);
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.kira {
+  width: auto;
+  height: auto;
+  padding: 20px;
+  background-color: rgb(251, 241, 252);
+  color: rgb(9, 9, 9);
+  border-radius: 10px;
+  margin-top: 20px;
+}
