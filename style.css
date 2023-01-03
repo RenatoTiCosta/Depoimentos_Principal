@@ -40,7 +40,7 @@ p {
 }
 
 .aspas {
-  margin-left: auto;
+  float: right;
 }
 .jonathan {
   width: auto;
